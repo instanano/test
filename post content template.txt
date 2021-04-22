@@ -1,0 +1,1 @@
+[vc_row][vc_column width="2/3"][us_post_title align="left" tag="h1"][us_post_content length="0"][us_post_comments][/vc_column][vc_column width="1/3"][vc_widget_sidebar sidebar_id="us_widget_area_sidebar1"][/vc_column][/vc_row]
